@@ -1,0 +1,5 @@
+{
+  "name": "AI Presentation Tools Comparator",
+  "description": "A web application that provides a comparative analysis of various AI-powered presentation tools, offers tips for creating effective presentations, and includes a Gemini-powered chat assistant for user queries.",
+  "requestFramePermissions": []
+}
